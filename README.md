@@ -7,7 +7,7 @@ Estudos Recentes:
 - Ago/22 a Dez/22 -> java, C, php, banco de dados.
 
 Estudos Paralelos:
-- AWS, api rest e IA com redes neurais.
+- AWS, api rest e IA.
 
 <!---
 Esse repositório será para apresentação de algumas atividades já realizadas...
