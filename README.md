@@ -12,6 +12,7 @@ Linguagem   | Um pouco do que sei...
 ![Java](https://img.shields.io/badge/Java-green) | Alguns projetos desenvolvidos em JAVA, alguns para aprendizagem.
 ![C](https://img.shields.io/badge/C-red) | Lógica em programação desenvolvida em C
 ![Python](https://img.shields.io/badge/python-darkgreen) | Estudo de Python para execução de técnicas de BigData e Gerenciamento de Dados.
+![Flutter](https://img.shields.io/badge/flutter-purple) | Desenvolvimento mobile em Flutter, conclusão Bootcamp Santander 2023 - Trilha Flutter.
     
 
 ## Estudos Recentes:
